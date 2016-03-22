@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Thomas.qml</file>
+        <file>Head-OnThomasPromo.png</file>
+    </qresource>
+</RCC>
